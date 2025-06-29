@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.db19b599.css",
-    "main.js": "/static/js/main.82a17936.js",
+    "main.js": "/static/js/main.e88aa886.js",
     "static/css/225.432f38ff.chunk.css": "/static/css/225.432f38ff.chunk.css",
     "static/js/225.aca1800c.chunk.js": "/static/js/225.aca1800c.chunk.js",
     "static/js/784.31a47adb.chunk.js": "/static/js/784.31a47adb.chunk.js",
@@ -17,7 +17,6 @@
     "static/media/code.png": "/static/media/code.19edc3fbac1c451f289d.png",
     "static/media/things.png": "/static/media/things.cf39f7c952251b65ca61.png",
     "static/media/notion.png": "/static/media/notion.7ac11356cb278dcfca7b.png",
-    "static/media/velog.png": "/static/media/velog.6c5b455a1b2e3847eed1.png",
     "static/media/apple.png": "/static/media/apple.69bee556745571d0df82.png",
     "static/media/LinkedInIcon.png": "/static/media/LinkedInIcon.6892b3ae328c7a1e055f.png",
     "static/media/controlcenter.png": "/static/media/controlcenter.4ccfd6b35033075436ea.png",
@@ -25,7 +24,7 @@
     "static/media/NothingIcon.png": "/static/media/NothingIcon.1d016eacd3510179be48.png",
     "index.html": "/index.html",
     "main.db19b599.css.map": "/static/css/main.db19b599.css.map",
-    "main.82a17936.js.map": "/static/js/main.82a17936.js.map",
+    "main.e88aa886.js.map": "/static/js/main.e88aa886.js.map",
     "225.432f38ff.chunk.css.map": "/static/css/225.432f38ff.chunk.css.map",
     "225.aca1800c.chunk.js.map": "/static/js/225.aca1800c.chunk.js.map",
     "784.31a47adb.chunk.js.map": "/static/js/784.31a47adb.chunk.js.map",
@@ -38,6 +37,6 @@
   },
   "entrypoints": [
     "static/css/main.db19b599.css",
-    "static/js/main.82a17936.js"
+    "static/js/main.e88aa886.js"
   ]
 }
